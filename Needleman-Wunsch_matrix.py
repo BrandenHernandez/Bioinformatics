@@ -29,9 +29,6 @@ arrows = [u"\u2196", u"\u2191", u"\u2190"]  # diagonal, up, left
 output_file = ""
 global sub_file
 
-# Header
-print("\nAssignment #2 :: R#11618828\n")
-
 
 # From Assignment I
 # --------------------------------------------------------------------------
